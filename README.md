@@ -3,7 +3,8 @@
 Blockchain101
 
 Chapter       Title
-[Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
 1           Blockchain Ducks
 

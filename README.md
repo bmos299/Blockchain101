@@ -21,3 +21,8 @@ Chapter       Title
 8           Cybersecurity, Zero Knowledge Proof and Digital Identity
 
  
+## Contributing
+
+We welcome contributions to the Hyperledger Fabric project in many forms.
+There’s always plenty to do! Check [the documentation on how to contribute to this project](http://hyperledger-fabric.readthedocs.io/en/latest/CONTRIBUTING.html)
+for the full details.

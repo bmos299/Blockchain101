@@ -1,1 +1,1 @@
-# Blockchain Ducks
+# Cryptocurrency, Bitcoin and Mining

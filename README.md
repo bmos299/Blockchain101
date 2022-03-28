@@ -23,6 +23,6 @@ Chapter       Title
  
 ## Contributing
 
-We welcome contributions to the Hyperledger Fabric project in many forms.
-There’s always plenty to do! Check [the documentation on how to contribute to this project](http://hyperledger-fabric.readthedocs.io/en/latest/CONTRIBUTING.html)
+We welcome contributions to the Blockchain 101 class from a code and informational perspective.
+There’s always plenty to do! Check [the documentation on how to contribute to this class](http://yahoo.com)
 for the full details.

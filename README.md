@@ -1,4 +1,4 @@
-# Blockchain101 (link to book?)
+# Think Blockchain (link to book?)
 
 ## Chapter       
 

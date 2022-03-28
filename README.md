@@ -1,12 +1,26 @@
 # Blockchain101 (link to book?)
 
-Blockchain101
 
-Chapter       Title
+
+## Chapter       
 
 - [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
-1           Blockchain Ducks
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- 
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- 
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- 
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- 
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+ 
 
 2           Three Blockchain Stories 
 
@@ -23,7 +37,7 @@ Chapter       Title
 8           Cybersecurity, Zero Knowledge Proof and Digital Identity
 
  
-## Chapters
+## Chapter Description
 
 What is in each chapter...
  

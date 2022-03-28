@@ -1,1 +1,1 @@
-# Blockchain Ducks
+# How Blockchain Works

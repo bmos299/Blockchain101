@@ -1,1 +1,1 @@
-# Blockchain Ducks
+# Artificial Intelligence, IoT and Quantum

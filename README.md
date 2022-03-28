@@ -1,4 +1,4 @@
-# Blockchain101 # 
+# Blockchain101 [![join the chat][rocketchat-image]][rocketchat-url]
 
 Blockchain101
 

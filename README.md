@@ -21,6 +21,10 @@ Chapter       Title
 8           Cybersecurity, Zero Knowledge Proof and Digital Identity
 
  
+## Chapters
+
+What is in each chapter...
+ 
 ## Contributing
 
 We welcome contributions to the Blockchain 101 class from a code and informational perspective.

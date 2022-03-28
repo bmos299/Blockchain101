@@ -3,9 +3,10 @@
 Blockchain101
 
 Chapter       Title
-1           Blockchain Ducks [done] 
 
-2           Three Blockchain Stories [done] 
+1           Blockchain Ducks
+
+2           Three Blockchain Stories 
 
 3           How Blockchain works
 

@@ -1,42 +1,24 @@
 # Blockchain101 (link to book?)
 
-
-
 ## Chapter       
 
 - [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- [Three Blockchain Stories](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- [How Blockchain works](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
-- 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
-- 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
-- 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
-- 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- [Cryptocurrency, Bitcoin and Mining](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
 
+- [Tokens, Ethereum and Smart contracts](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
  
-
-2           Three Blockchain Stories 
-
-3           How Blockchain works
-
-4           Cryptocurrency, Bitcoin and Mining
-
-5           Tokens, Ethereum and Smart contracts 
-
-6           Supply Chain, Hyperledger and Consensus
-
-7           Artificial Intelligence, IoT and Quantum
-
-8           Cybersecurity, Zero Knowledge Proof and Digital Identity
-
+- [Supply Chain, Hyperledger and Consensus](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
  
+- [Artificial Intelligence, IoT and Quantum](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+- [Cybersecurity, Zero Knowledge Proof and Digital Identity](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+
+
 ## Chapter Description
 
 What is in each chapter...

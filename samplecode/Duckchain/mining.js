@@ -4,14 +4,14 @@ const SHA256 = require('crypto-js/sha256');
 class Block {
 
     // method that creates a new Block
-    constructor(index, data, previousHash) {   
+    constructor(index, data) {   
 
         // A Block on the "Duckchain" contains these properties
         this.index = index;                 // position of block in the chain 
         this.data  = data;                  // data stored in the block
-        this.nonce = 0;                     // used to add variety to hash calc
+        this.nonce = 0;                     // used to add variety to hash calc (based on difficulty)
         this.hash  = this.calculateHash();  // calculate a hash for this block
-        this.previousHash= previousHash;    // the hash of the previous block
+        this.previousHash= 0;               // the hash of the previous block is calculated with all new blocks
     }
 
     // method that calculates the hash of a block
@@ -51,15 +51,14 @@ class Blockchain {
     // method that creates block 0 aka the genesis block
     createGenesisBlock() {
         let genesisData = "Genesis Block Quack Quack!"; 
-        let genesisBlock = new Block(0,     // the index is zero because its block 0 
-                                    genesisData,       // data for the genesis block 
-                                    "0");              // there is no previous block 
+        let genesisBlock = new Block(0,           // the index is zero because its block 0 
+                                    genesisData); // data for the genesis block 
         return(genesisBlock);
     }
 
     // fetches the last block added to the chain
     getLatestBlock() {
-      //let last = this.chain.length - 1; // calculate last item in the change 
+      //let last = this.chain.length - 1; // calculate last item in the chain
       //let lastBlock = this.chain[last]; // get the last block
       //return(lastBlock);                // return the last block
       return(this.chain[this.chain.length-1]);
@@ -105,11 +104,11 @@ let duckchain = new Blockchain(); // Tada! duckchain is live on my laptop
 
 duckchain.difficulty = 3;
 duckchain.addBlock(new Block(1, "donald"));  // add the donald block
-
+ 
 duckchain.difficulty = 6;
 duckchain.addBlock(new Block(2, "daffy" ));  // add the daffy block
 
 // print out the full duckchain
-console.log(JSON.stringify(duckchain, null, 4));          
+console.log(JSON.stringify(duckchain, null, 2));          
 // print out if chain is valid or not
 console.log('Is the Duckchain valid? ' + duckchain.isChainValid());

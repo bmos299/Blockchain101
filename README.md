@@ -29,6 +29,8 @@ You can clone the repository however you choose.  Here is a sample cli command y
 
 3.  Install the package.json
 `cd samplecode/Duckchain/package.json`
+
+Install the package(s):
 `npm install`
 
 4.  Verify the node_module
